@@ -10,7 +10,7 @@ Dependecias necearias para el proyecto
 
 ```bash
 npm install @react-navigation/bottom-tabs
-
+```
 ### React Navigation - Stack
 npm install @react-navigation/native-stack
 
