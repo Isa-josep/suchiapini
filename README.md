@@ -6,17 +6,19 @@
 
 Dependecias necearias para el proyecto
 
-### React Navigation - Bottom Tabs
-
-```bash
+## React Navigation - Bottom Tabs
+```
 npm install @react-navigation/bottom-tabs
 ```
-### React Navigation - Stack
+## React Navigation - Stack
+```
 npm install @react-navigation/native-stack
-
-### React Avatar
+```
+## React Avatar
+```
 npm i react-native-user-avatar
-
-### lineargradient react native
-
+```
+## lineargradient react native
+```
 npx expo install expo-linear-gradient
+```
